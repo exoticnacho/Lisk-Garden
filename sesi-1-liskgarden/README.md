@@ -1,4 +1,4 @@
-# 🌿 Proyek Smart Contract: LiskGarden
+# 🌿 Project: LiskGarden
 
 Proyek **LiskGarden** adalah implementasi *game* berkebun sederhana di blockchain, dikembangkan sebagai bagian dari sesi praktik Solidity. Kontrak ini memungkinkan pengguna untuk menanam, menyiram, dan memanen tanaman digital mereka.
 
